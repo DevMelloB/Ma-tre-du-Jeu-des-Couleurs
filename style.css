@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    padding-bottom: 1em;
+}
+
+.colorDiv {
+    background-color: gray;
+    border: solid 10px;
+    border-color: white;
+    color:black;
+}
+
+.colorButton {
+    padding:2em;
+	margin: 0.5em;
+}
+
+#play {
+    padding: 20px;
+    margin-top: 7px;
+}
+
+#score {
+    margin-top: 25px;
+}
